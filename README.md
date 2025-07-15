@@ -22,9 +22,6 @@ Currently focused on backend development, data engineering, and sharpening my pr
 ### EECS 497: Human-Centered Software and Design and Development (Capstone)
 
 
-![Top Langs](https://github-readme-stats1-jaemin-chungs-projects.vercel.app/api/top-langs/?username=Jaemin-c&layout=compact)
-
-
 ## 📫 Contact
 - Email: [jaeminjaemin200@gmail.com]
 - GitHub: [https://github.com/Jaemin-c](https://github.com/Jaemin-c)
