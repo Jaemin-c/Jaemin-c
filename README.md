@@ -21,7 +21,7 @@ Currently focused on backend development, data engineering, and sharpening my pr
 
 ### EECS 497: Human-Centered Software and Design and Development (Capstone)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaemin-c)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jaemin-chungs-projects.vercel.app/api/top-langs/?username=Jaemin-c)](https://github.com/anuraghazra/github-readme-stats)
 
 출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 
