@@ -12,7 +12,7 @@ Currently focused on backend development, data engineering, and sharpening my pr
 Undergraduate course covering essential data structures, algorithm design strategies, and complexity analysis for solving programming problems.
 [수업 프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/281/README-overview.md)
 
-## 📌 Projects Overview
+## Projects Overview
 
 | Project | Title | Language | Algorithms / Focus |
 | --- | --- | --- | --- |
