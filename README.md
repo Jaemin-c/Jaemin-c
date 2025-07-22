@@ -10,7 +10,7 @@ Currently focused on backend development, data engineering, and sharpening my pr
 ### EECS 281: Data Structures and Algorithms (자료 구조와 알고리즘)
 **Languages/Technologies:** C++
 Undergraduate course covering essential data structures, algorithm design strategies, and complexity analysis for solving programming problems.
-[수업 프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/281/README-01.md)
+[수업 프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/281/README-overview.md)
 
 ## 📌 Projects Overview
 
