@@ -5,6 +5,7 @@ Currently focused on backend development, data engineering, and sharpening my pr
 
 ## 📚 Academic Projects
 > 📌 **Note:** Due to university policies and academic integrity guidelines, the source code for course projects is not publicly available. 
+
 > 📌 **안내:** 학교의 정책 및 학업 윤리 규정에 따라, 수업 프로젝트의 소스 코드는 공개하지 않습니다. 이 레포지토리에는 프로젝트 설명과 개인적인 회고만 포함되어 있습니다.
 
 ### EECS 281: Data Structures and Algorithms (자료 구조와 알고리즘)
