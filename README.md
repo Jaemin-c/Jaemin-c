@@ -14,6 +14,15 @@ Undergraduate course covering essential data structures, algorithm design strate
 - **Project 1: Back to the Ship!**   
     3D 미로에서 BFS와 DFS로 경로를 탐색하고, 엘리베이터를 통한 층간 이동을 구현한 프로젝트입니다. [프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/281/README-01.md)
 
+- **Project 2A: Stock Market Simulation**  
+    우선순위 큐(priority queue)를 활용한 주식 시장 시뮬레이터를 구현했습니다.  
+    주문 매칭, 중앙값 계산, 트레이더 통계, 타임트래블러 분석 등 다양한 기능을 제공합니다.  
+    [프로젝트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/281/README-p2.md)
+
+- **Project 2B: Priority Queue Implementations**  
+    다양한 Priority Queue 자료구조(`Sorted Array`, `Binary Heap`, `Pairing Heap`)를 직접 구현하여 자료구조의 효율성과 특성을 학습했습니다.  
+    [프로젝트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/281/README-p2.md)
+
 
 
 ### EECS 370: Intro to Computer Organization
