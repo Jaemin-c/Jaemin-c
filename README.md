@@ -21,7 +21,7 @@ Undergraduate course covering essential data structures, algorithm design strate
 | **2A** | Stock Market Simulator | C++ | Priority Queue, Heap, Median Maintenance |
 | **2B** | Priority Queue Implementations | C++ | Sorted Array, Binary Heap, Pairing Heap |
 | **3** | 281Bank: Transaction System Simulator | C++ | File Parsing, Timestamp Comparison, Priority Queue, Fee Calculation, Session Tracking |
-| **4** | TBD | C++ | (작성 예정) |
+| **4** | Pokemon TSP | C++ | Minimum Spanning Tree (Prim), Greedy Insertion, Branch and Bound with Pruning |
 
 
 
