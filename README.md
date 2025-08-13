@@ -39,7 +39,29 @@ Undergraduate course covering essential data structures, algorithm design strate
 
 
 ### EECS 497: Human-Centered Software and Design and Development (Capstone)
-**Languages/Technologies:** Python (Flask), SQLAlchemy, HTML/CSS, JavaScript
+**Description:** 사용자가 가진 스킬(Offered)과 배우고 싶은 스킬(Wanted)의 **교집합**으로 멘토·멘티를 매칭하는 스킬 교환/멘토링 웹앱
+
+**주요 기능**
+- **회원가입/로그인**: 스킬(Offered/Wanted) 등록, 스킬별 설명·카테고리 입력
+- **Discover 추천**: 내 Wanted ↔ 상대 Offered 교집합 우선 노출, 카테고리/최소 평점 필터
+- **Explore/검색**: 카테고리별 사용자 탐색, 키워드 검색(카테고리·바이오)
+- **프로필/리뷰**: 스킬 설명, 별점·코멘트, 평균 평점 표시
+- **메시지**: 1:1 채팅 및 인박스(최근 대화 목록)
+
+**Languages/Technologies**
+- Backend: Flask(Blueprints), Flask-Login, Flask-Bcrypt, SQLAlchemy ORM  
+- Frontend: Jinja Templates, HTML/CSS/JS
+
+**역할/기여**
+- SQLAlchemy 기반 **데이터 모델링**(User, Skill, UserSkill, Review, Message)
+- **추천 로직(Discover)** 및 카테고리/평점 필터링 구현
+- **메시징 API/인박스**와 프로필 편집 흐름 구현에 기여
+- 인증/세션 흐름 정리, 기본 보안(비밀번호 해시, 접근 보호) 적용
+
+**데모/자료**
+- 데모 영상: https://docs.google.com/document/d/1-0upy6Su_gEjm8MBUlSahS6GtrKJKgYRONeiVBdsMps/edit?tab=t.0
+- 프로젝트 설명서: https://github.com/Jaemin-c/uni-project/blob/main/497/README-497.md
+
 
 
 ## 📫 Contact
