@@ -8,7 +8,7 @@ Currently focused on backend development, data engineering, and sharpening my pr
 
 > 📌 **안내:** 학교의 정책 및 학업 윤리 규정에 따라, 수업 프로젝트의 소스 코드는 공개하지 않습니다. 이 레포지토리에는 프로젝트 설명과 개인적인 회고만 포함되어 있습니다.
 
-### EECS 281: Data Structures and Algorithms (자료 구조와 알고리즘)
+### EECS 281: Data Structures and Algorithms (자료 구조와 알고리즘) (F2024)
 **Languages/Technologies:** C++
 Undergraduate course covering essential data structures, algorithm design strategies, and complexity analysis for solving programming problems.
 [수업 프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/281/README-overview.md)
@@ -25,20 +25,20 @@ Undergraduate course covering essential data structures, algorithm design strate
 
 
 
-### EECS 370: Intro to Computer Organization
+### EECS 370: Intro to Computer Organization (F2024)
 **Languages/Technologies:** C
 
-### EECS 389: Practical Data Science
+### EECS 389: Practical Data Science (SS2025)
 
 
-### EECS 484: Database Management Systems
+### EECS 484: Database Management Systems (W2025)
 
 
-### EECS 489: Computer Networks
+### EECS 489: Computer Networks (W2025)
 **Languages/Technologies:** C++, Mininet, POX Controller
 
 
-### EECS 497: Human-Centered Software and Design and Development (Capstone)
+### EECS 497: Human-Centered Software and Design and Development (Capstone) (W2025)
 **Description:** 사용자가 가진 스킬(Offered)과 배우고 싶은 스킬(Wanted)의 **교집합**으로 멘토·멘티를 매칭하는 스킬 교환/멘토링 웹앱
 
 **주요 기능**
