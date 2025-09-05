@@ -22,8 +22,6 @@ Currently focused on backend development, data engineering, and sharpening my pr
 - **프로필/리뷰**: 스킬 설명, 별점·코멘트, 평균 평점 표시
 - **메시지**: 1:1 채팅 및 인박스(최근 대화 목록)
 
-
-
 **역할/기여**
 - SQLAlchemy 기반 **데이터 모델링**(User, Skill, UserSkill, Review, Message)
 - **추천 로직(Discover)** 및 카테고리/평점 필터링 구현
@@ -35,7 +33,9 @@ Currently focused on backend development, data engineering, and sharpening my pr
 - 프로젝트 설명서: https://github.com/Jaemin-c/uni-project/blob/main/497/README-497.md
 
 ### EECS 489: Computer Networks (W2025)
+EECS 489 takes a top-down approach to explore how networks operate and how network applications are written.
 상세 설명 및 설계: [수업 프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/489/README-489.md)
+
 **Languages/Technologies:** C++, spdlog, cxxopts, pugixml, boost::regex, Mininet/POX  
 
 **Project 2 -  Adaptive Video Streaming via CDN**
