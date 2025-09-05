@@ -33,6 +33,7 @@ Currently focused on backend development, data engineering, and sharpening my pr
 - 프로젝트 설명서: https://github.com/Jaemin-c/uni-project/blob/main/497/README-497.md
 
 ### EECS 489: Computer Networks (W2025)
+[수업 프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/489/README-489.md)
 **Languages/Technologies:** C++, spdlog, cxxopts, pugixml, boost::regex, Mininet/POX  
 **Project 2 -  Adaptive Video Streaming via CDN**
 **Description:**  
