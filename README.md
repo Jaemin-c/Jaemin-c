@@ -15,6 +15,10 @@ Currently focused on backend development, data engineering, and sharpening my pr
 - Backend: Flask(Blueprints), Flask-Login, Flask-Bcrypt, SQLAlchemy ORM  
 - Frontend: Jinja Templates, HTML/CSS/JS
 
+**데모/자료**
+- 데모 영상: https://docs.google.com/document/d/1-0upy6Su_gEjm8MBUlSahS6GtrKJKgYRONeiVBdsMps/edit?tab=t.0
+- 프로젝트 설명서: https://github.com/Jaemin-c/uni-project/blob/main/497/README-497.md
+
 **주요 기능**
 - **회원가입/로그인**: 스킬(Offered/Wanted) 등록, 스킬별 설명·카테고리 입력
 - **Discover 추천**: 내 Wanted ↔ 상대 Offered 교집합 우선 노출, 카테고리/최소 평점 필터
@@ -27,10 +31,6 @@ Currently focused on backend development, data engineering, and sharpening my pr
 - **추천 로직(Discover)** 및 카테고리/평점 필터링 구현
 - **메시징 API/인박스**와 프로필 편집 흐름 구현에 기여
 - 인증/세션 흐름 정리, 기본 보안(비밀번호 해시, 접근 보호) 적용
-
-**데모/자료**
-- 데모 영상: https://docs.google.com/document/d/1-0upy6Su_gEjm8MBUlSahS6GtrKJKgYRONeiVBdsMps/edit?tab=t.0
-- 프로젝트 설명서: https://github.com/Jaemin-c/uni-project/blob/main/497/README-497.md
 
 ### EECS 489: Computer Networks (W2025)
 EECS 489 takes a top-down approach to explore how networks operate and how network applications are written.
@@ -45,10 +45,11 @@ EECS 489 takes a top-down approach to explore how networks operate and how netwo
 로드 밸런서는 Round-Robin/Geographic 모드로 비디오 서버를 배정. 
 
 
+
 ### EECS 281: Data Structures and Algorithms (자료 구조와 알고리즘) (F2024)
 **Languages/Technologies:** C++
 Undergraduate course covering essential data structures, algorithm design strategies, and complexity analysis for solving programming problems.
-[수업 프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/281/README-overview.md)
+[수업 프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/281/README-281.md)
 
 #### Projects Overview
 
