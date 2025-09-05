@@ -34,7 +34,7 @@ Currently focused on backend development, data engineering, and sharpening my pr
 
 ### EECS 489: Computer Networks (W2025)
 EECS 489 takes a top-down approach to explore how networks operate and how network applications are written.
-상세 설명 및 설계: [수업 프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/489/README-489.md)
+[수업 프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/489/README-489.md)
 
 **Languages/Technologies:** C++, spdlog, cxxopts, pugixml, boost::regex, Mininet/POX  
 
