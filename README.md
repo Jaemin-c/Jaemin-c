@@ -11,6 +11,10 @@ Currently focused on backend development, data engineering, and sharpening my pr
 ### EECS 497: Human-Centered Software and Design and Development (Capstone) (W2025)
 **Description:** 사용자가 가진 스킬(Offered)과 배우고 싶은 스킬(Wanted)의 **교집합**으로 멘토·멘티를 매칭하는 스킬 교환/멘토링 웹앱
 
+**Languages/Technologies**
+- Backend: Flask(Blueprints), Flask-Login, Flask-Bcrypt, SQLAlchemy ORM  
+- Frontend: Jinja Templates, HTML/CSS/JS
+
 **주요 기능**
 - **회원가입/로그인**: 스킬(Offered/Wanted) 등록, 스킬별 설명·카테고리 입력
 - **Discover 추천**: 내 Wanted ↔ 상대 Offered 교집합 우선 노출, 카테고리/최소 평점 필터
@@ -18,9 +22,7 @@ Currently focused on backend development, data engineering, and sharpening my pr
 - **프로필/리뷰**: 스킬 설명, 별점·코멘트, 평균 평점 표시
 - **메시지**: 1:1 채팅 및 인박스(최근 대화 목록)
 
-**Languages/Technologies**
-- Backend: Flask(Blueprints), Flask-Login, Flask-Bcrypt, SQLAlchemy ORM  
-- Frontend: Jinja Templates, HTML/CSS/JS
+
 
 **역할/기여**
 - SQLAlchemy 기반 **데이터 모델링**(User, Skill, UserSkill, Review, Message)
@@ -33,19 +35,14 @@ Currently focused on backend development, data engineering, and sharpening my pr
 - 프로젝트 설명서: https://github.com/Jaemin-c/uni-project/blob/main/497/README-497.md
 
 ### EECS 489: Computer Networks (W2025)
-[수업 프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/489/README-489.md)
+상세 설명 및 설계: [수업 프로제트 상세보기](https://github.com/Jaemin-c/uni-project/blob/main/489/README-489.md)
 **Languages/Technologies:** C++, spdlog, cxxopts, pugixml, boost::regex, Mininet/POX  
+
 **Project 2 -  Adaptive Video Streaming via CDN**
 **Description:**  
 구현한 HTTP Proxy(**miProxy**)와 **Load Balancer**를 통해 CDN 환경에서 **Adaptive Bitrate Streaming (ABR)**을 지원.  
 프록시는 클라이언트의 세그먼트 수신 속도를 측정해 비트레이트를 동적으로 선택하며,  
-로드 밸런서는 Round-Robin/Geographic 모드로 비디오 서버를 배정.  
-
-**Algorithms / Focus:**  
-- HTTP/1.1 파싱 및 manifest/segment 요청 가로채기  
-- EWMA 기반 **throughput 추정** & 비트레이트 선택 규칙 (1.5× margin)  
-- `select()` 기반 멀티플렉싱으로 다중 클라이언트 처리  
-- 로드 밸런서 프로토콜 구현 (Round-Robin / Geographic Shortest Path)  
+로드 밸런서는 Round-Robin/Geographic 모드로 비디오 서버를 배정. 
 
 
 ### EECS 281: Data Structures and Algorithms (자료 구조와 알고리즘) (F2024)
